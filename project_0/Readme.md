@@ -4,9 +4,9 @@
 [1. Описание проекта](https://github.com/Legion1310/SF_DS/blob/main/project_0/Readme.md#описание-проекта)
 [2. Какой кейс решаем](https://github.com/Legion1310/SF_DS/blob/main/project_0/Readme.md#какой-кейс-решаем)
 [3. Краткая информация о данных](https://github.com/Legion1310/SF_DS/blob/main/project_0/Readme.md#краткая-информация-о-данных)
-[4. Этапы работы над проектом]()
-[5. Результат]()
-[6. Выводы]()
+[4. Этапы работы над проектом](https://github.com/Legion1310/SF_DS/blob/main/project_0/Readme.md#этапы-работы-над-проектом)
+[5. Результат](https://github.com/Legion1310/SF_DS/blob/main/project_0/Readme.md#результаты)
+[6. Выводы](https://github.com/Legion1310/SF_DS/blob/main/project_0/Readme.md#выводы)
 
 ### Описание проекта
 Угадать  загаданное компьютером число за минимальное число попыток
